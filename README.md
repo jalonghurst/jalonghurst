@@ -42,6 +42,14 @@ Here are some ideas to get you started:
 ![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
+#### My Dev Devices and Softwares
+
+- ![windowsos](https://img.shields.io/badge/windows%20os-000000?style=for-the-badge&logo=windows&logoColor=white) ![Razer Blade laptop](https://img.shields.io/badge/microsoft-laptop-999999?style=for-the-badge&logo=windows&logoColor=white) Razer Blade 15" (2019/20)
+- ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![apple laptop](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white) MacBook Pro 13" (2017)
+- ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+- ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+
 
 <!-- #### Social
 
