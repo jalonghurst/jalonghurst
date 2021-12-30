@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 ![babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 ![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![Git](https://img.shields.io/badge/git-338833?style=for-the-badge&logo=git&logoColor=F7BA3E)
+
 
 #### My Dev Devices and Softwares
 
