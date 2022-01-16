@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
--
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
@@ -45,7 +44,7 @@ Here are some ideas to get you started:
 ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Git](https://img.shields.io/badge/git-338833?style=for-the-badge&logo=git&logoColor=F7BA3E)
 
-
+--
 #### My Dev Devices and Softwares
 
 - ![windowsos](https://img.shields.io/badge/windows%20os-000000?style=for-the-badge&logo=windows&logoColor=white) ![Razer Blade laptop](https://img.shields.io/badge/microsoft-laptop-999999?style=for-the-badge&logo=windows&logoColor=white) Razer Blade 15" (2019/20)
