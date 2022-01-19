@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Git](https://img.shields.io/badge/git-338833?style=for-the-badge&logo=git&logoColor=F7BA3E)
 
---
+
 #### My Dev Devices and Softwares
 
 - ![windowsos](https://img.shields.io/badge/windows%20os-000000?style=for-the-badge&logo=windows&logoColor=white) ![Razer Blade laptop](https://img.shields.io/badge/microsoft-laptop-999999?style=for-the-badge&logo=windows&logoColor=white) Razer Blade 15" (2019/20)
