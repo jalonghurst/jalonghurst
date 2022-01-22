@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-⚡ I'm a Software Engineer with focus on Web Development: 
- 💬 Avaliable to work: Full Stack/Web/React Developer
- 📫 How to reach me: jacqui.longhurst@btinternet.com 
+⚡ I'm a Software Engineer with Web Development focus
+
+💬 Avaliable to work: Full Stack/Web/React Developer
+
+📫 How to reach me: jacqui.longhurst@btinternet.com 
 
 #### Languages
 
