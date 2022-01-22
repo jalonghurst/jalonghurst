@@ -42,19 +42,23 @@ Here are some ideas to get you started:
 ![MaterialUI](https://img.shields.io/badge/materialUI-338833?style=for-the-badge&logo=mui&logoColor=61DAFB)
 ![ChakraUI](https://img.shields.io/badge/chakraUI-338833?style=for-the-badge&logo=chakraui&logoColor=61DAFB)
 
+###### JavaScript Runtimes and Libraries 
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![deno](https://img.shields.io/badge/Deno-CC6699?style=for-the-badge&logo=deno&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+###### Version Control Systems / Repo Hosting Services / Package Managers
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-338833?style=for-the-badge&logo=github&logoColor=F7BA3E)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 
 
-![Git](https://img.shields.io/badge/git-338833?style=for-the-badge&logo=git&logoColor=F7BA3E)
 
 
 
