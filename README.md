@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Git](https://img.shields.io/badge/git-338833?style=for-the-badge&logo=git&logoColor=F7BA3E)
+![MaterialUI](https://img.shields.io/badge/materialUI-338833?style=for-the-badge&logo=mui&logoColor=61DAFB)
 
 
 #### My Dev Devices and Softwares
