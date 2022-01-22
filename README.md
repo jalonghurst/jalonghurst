@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+I an a Software Engineer with focus on Web Development. 
 
 #### Languages
 
