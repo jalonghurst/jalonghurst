@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,6 +12,8 @@ Here are some ideas to get you started:
 -->
 
 ⚡ I'm a Software Engineer with Web Development focus
+
+⚛ I’m currently working on 'crypto-zone-v1'. A cryptocurrency market data tracking web application using React.
 
 💬 Avaliable to work: Full Stack/Web/React Developer
 
