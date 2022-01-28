@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/materialUI-338833?style=for-the-badge&logo=mui&logoColor=61DAFB)
 ![ChakraUI](https://img.shields.io/badge/chakraUI-338833?style=for-the-badge&logo=chakraui&logoColor=61DAFB)
-
+![ChartJS](https://img.shields.io/badge/chartJS-338833?style=for-the-badge&logo=chartdotjs&logoColor=F7BA3E)
 ###### JavaScript Runtimes and Libraries 
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![deno](https://img.shields.io/badge/Deno-CC6699?style=for-the-badge&logo=deno&logoColor=white)
