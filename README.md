@@ -33,37 +33,29 @@ Here are some ideas to get you started:
 
 ###### Build Tools: Task Runners / Module Bundlers / Linters and Formatters
 ![npm-scripts](https://img.shields.io/badge/npm-scripts-1A2C34?style=for-the-badge&logo=npm-scripts&logoColor=F7BA3E)
-![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![webpack](https://img.shields.io/badge/Webpack-338833?style=for-the-badge&logo=Webpack&logoColor=white)
 ![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 
 ###### CSS Frameworks 
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/materialUI-338833?style=for-the-badge&logo=mui&logoColor=61DAFB)
-![ChakraUI](https://img.shields.io/badge/chakraUI-338833?style=for-the-badge&logo=chakraui&logoColor=61DAFB)
-![ChartJS](https://img.shields.io/badge/chartJS-338833?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/materialUI-323330?style=for-the-badge&logo=mui&logoColor=61DAFB)
+![ChakraUI](https://img.shields.io/badge/chakraUI-007ACC?style=for-the-badge&logo=chakraui&logoColor=white)
+![ChartJS](https://img.shields.io/badge/chartJS-F7BA3E?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ###### JavaScript Runtimes and Libraries 
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![deno](https://img.shields.io/badge/Deno-CC6699?style=for-the-badge&logo=deno&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![react router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ###### Version Control Systems / Repo Hosting Services / Package Managers
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-338833?style=for-the-badge&logo=github&logoColor=F7BA3E)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-__
-
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![react router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-![babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
-
-###### Testing 
-
-
 
 
 #### My Dev Devices and Softwares
