@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-⚡ I'm a Software Engineer with Web Development focus
+⚡ I'm a Software Engineer!
 
 ⚛ I’m currently working on 'crypto-zone-v1'. A cryptocurrency market data tracking web application using React.
 
-💬 Avaliable to work: Full Stack/Web/React Developer
+💬 Avaliable to work: Full Stack/JavaScript/React Developer
 
 📫 How to reach me: jacqui.longhurst@btinternet.com 
 
