@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-⚡ I'm a Software Engineer!
+⚡ I'm a Software Engineer and web developer working with MERN stack.
 
 ⚛ I’m currently working on 'crypto-zone-v1'. A cryptocurrency market data tracking web application using React.
 
