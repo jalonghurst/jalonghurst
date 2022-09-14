@@ -58,17 +58,3 @@ Here are some ideas to get you started:
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 
-#### My Dev Devices and Softwares
-
-- ![windowsos](https://img.shields.io/badge/windows%20os-000000?style=for-the-badge&logo=windows&logoColor=white) ![Razer Blade laptop](https://img.shields.io/badge/microsoft-laptop-999999?style=for-the-badge&logo=windows&logoColor=white) Razer Blade 15" (2019/20)
-- ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![apple laptop](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white) MacBook Pro 13" (2017)
-- ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-- ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-
-
-<!-- #### Social
-
-- [![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
-- [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.)
- -->
