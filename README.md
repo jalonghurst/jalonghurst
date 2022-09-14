@@ -56,5 +56,3 @@ Here are some ideas to get you started:
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-338833?style=for-the-badge&logo=github&logoColor=F7BA3E)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-
