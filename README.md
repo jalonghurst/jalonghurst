@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ⚡ I'm a Software Engineer and web developer working with MERN stack.
 
-⚛ I’m currently working on 'crypto-zone-v1'. A cryptocurrency market data tracking web application using React.
+⚛ I’m currently working on 'VirtualStudio'. VirtualStudio is a virtual gallery space that allows artists and creatives to showcase their work in an online, accessible format.
 
 💬 Avaliable to work: Full Stack/JavaScript/React Developer
 
