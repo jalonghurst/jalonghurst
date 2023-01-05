@@ -65,7 +65,7 @@ Here are some ideas to get you started:
       <h3 align="center">Visual Studio</h3>
         <br />
         <a target="_blank" href="https://virtualstudio.onrender.com/">
-            <img src="images/gif1.gif" width="100%" alt="Visual Studio App"/>
+            <img src="vs1.gif" width="100%" alt="Visual Studio App"/>
         </a>
         <br />
         <p align="center">
