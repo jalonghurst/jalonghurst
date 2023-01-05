@@ -83,7 +83,7 @@ Here are some ideas to get you started:
       <h3 align="center">PrimePay</h3>
         <br />
       <a target="_blank" href="https://jalonghurst.github.io/PrimePay/">
-            <img src="images/gif2.gif" width="100%"  alt="PrimePay: Payment Provider Web Layout"/>
+            <img src="primepay.gif" width="100%"  alt="PrimePay: Payment Provider Web Layout"/>
         </a>
         <br />
         <p align="center">
