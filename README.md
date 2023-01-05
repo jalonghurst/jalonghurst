@@ -56,3 +56,84 @@ Here are some ideas to get you started:
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-338833?style=for-the-badge&logo=github&logoColor=F7BA3E)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Visual Studio</h3>
+        <br />
+        <a target="_blank" href="https://virtualstudio.onrender.com/">
+            <img src="images/gif1.gif" width="100%" alt="Visual Studio App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jalonghurst/VirtualStudio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://virtualstudio.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, MongoDB, DaisyUI/Tailwind, Node.js, & Express.js</strong> - VirtualStudio is a virtual gallery space that allows artists and creatives to showcase their work in an online, accessible format.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">PrimePay</h3>
+        <br />
+      <a target="_blank" href="https://jalonghurst.github.io/PrimePay/">
+            <img src="images/gif2.gif" width="100%"  alt="PrimePay: Payment Provider Web Layout"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jalonghurst/PrimePay" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://jalonghurst.github.io/PrimePay/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5 & CSS</strong> - A responsive web layout for a payment provider, online banking/financial service.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">JacquiLonghurst.com</h3>
+      <br />
+        <a target="_blank" href="https://jacquilonghurst.netlify.app/">
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/jalonghurst/developer-portfolio-2023" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://jacquilonghurst.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">NASA Space Data App</h3>
+        <br />
+        <a target="_blank" href="https://jalonghurst.github.io/NASA-space-data/">
+          <img src="images/gif3.gif" width="100%" alt="NASA Space Data App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jalonghurst/NASA-space-data" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://jalonghurst.github.io/NASA-space-data/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A web app which fetches and displays space data from various NASA sourced APIs.</p>
+    </td>
+  </tr>
+</table>
