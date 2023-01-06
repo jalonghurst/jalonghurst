@@ -121,7 +121,7 @@ Here are some ideas to get you started:
       <h3 align="center">NASA Space Data App</h3>
         <br />
         <a target="_blank" href="https://jalonghurst.github.io/NASA-space-data/">
-          <img src="images/gif3.gif" width="100%" alt="NASA Space Data App"/>
+          <img src="nasa.gif" width="100%" alt="NASA Space Data App"/>
         </a>
         <br />
         <p align="center">
