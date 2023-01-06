@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 ![Github](https://img.shields.io/badge/github-338833?style=for-the-badge&logo=github&logoColor=F7BA3E)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+![Codewars](https://github.r2v.ch/codewars?user=jalonghurst&stroke=COLOR)
+
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
