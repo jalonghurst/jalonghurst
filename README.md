@@ -104,7 +104,7 @@ Here are some ideas to get you started:
       <h3 align="center">JacquiLonghurst.com</h3>
       <br />
         <a target="_blank" href="https://jacquilonghurst.netlify.app/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="profile.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
