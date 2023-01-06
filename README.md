@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Visual Studio</h3>
+      <h3 align="center">Virtual Studio</h3>
         <br />
         <a target="_blank" href="https://virtualstudio.onrender.com/">
             <img src="vs1.gif" width="100%" alt="Visual Studio App"/>
