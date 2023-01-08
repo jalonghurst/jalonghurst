@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  
 ⚛ I’m currently working on 'VirtualStudio'. VirtualStudio is a virtual gallery space that allows artists and creatives to showcase their work in an online, accessible format.
 
-💬 Avaliable to work: Full Stack/JavaScript/React Developer
+💬 Avaliable to work: Fullstack Developer | MERN stack | JavaScript | React Developer
 
 📫 How to reach me: jacqui.longhurst@btinternet.com 
 
