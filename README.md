@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-
 #### Technologies
 
 ###### Build Tools: Task Runners / Module Bundlers / Linters and Formatters
@@ -56,6 +55,8 @@ Here are some ideas to get you started:
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-338833?style=for-the-badge&logo=github&logoColor=F7BA3E)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+![mongodb](https://img.shields.io/badge/MongoDB-3A33D1?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Codewars](https://github.r2v.ch/codewars?user=jalonghurst&stroke=COLOR)
 
