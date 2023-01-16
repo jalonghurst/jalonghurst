@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     <td width="50%" valign="top">
       <h3 align="center">Virtual Studio</h3>
         <br />
-        <a target="_blank" href="https://virtualstudio.onrender.com/">
+        <a target="_blank" href="https://virtualstudio.cyclic.app/">
             <img src="vs1.gif" width="100%" alt="Visual Studio App"/>
         </a>
         <br />
