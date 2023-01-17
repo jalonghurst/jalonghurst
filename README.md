@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ![mongodb](https://img.shields.io/badge/MongoDB-3A33D1?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Codewars](https://github.r2v.ch/codewars?user=jalonghurst&stroke=COLOR)
+<!-- <img src="https://www.codewars.com/users/jalonghurst/badges/large" /> -->
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
