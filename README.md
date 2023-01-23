@@ -143,7 +143,7 @@ Here are some ideas to get you started:
    
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Group Project</h3>
+      <h3 align="center">Group Project: A Green Ecommerce Store</h3>
       <br />
         <a target="_blank" href="https://github.com/jalonghurst/Green-Energy-ECommerce">
           <img src="logincapture-ecomm.png" width="100%" alt="Portfolio"/>
