@@ -145,15 +145,15 @@ Here are some ideas to get you started:
     <td width="50%" valign="top">
       <h3 align="center">Group Project</h3>
       <br />
-        <a target="_blank" href="https://jacquilonghurst.netlify.app/">
+        <a target="_blank" href="https://github.com/jalonghurst/Green-Energy-ECommerce">
           <img src="profile.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/jalonghurst/developer-portfolio-2023" target="_blank">
+  <a href="https://github.com/jcintron82/Green-Energy-ECommerce" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://jacquilonghurst.netlify.app/" target="_blank">
+  <a href="https://github.com/jcintron82/Green-Energy-ECommerce" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -162,7 +162,7 @@ Here are some ideas to get you started:
     <td width="50%" valign="top">
       <h3 align="center">Together: Latest open source contribution</h3>
         <br />
-        <a target="_blank" href="https://together.cyclic.app/">
+        <a target="_blank" href="https://github.com/jalonghurst/Together">
           <img src="together.png" width="100%" alt="Together Group Application"/>
         </a>
         <br />
@@ -171,11 +171,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/Caleb-Cohen/Together" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://jalonghurst.github.io/NASA-space-data/" target="_blank">
+  <a href="https://together.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> -Together is a group calendar application using the MERN stack intended to bring discord communities closer!</p>
+        <p><strong>React.js, Tailwind.css, Node.js, Express.js, JavaScript, MongoDB, strong> -Together is a group calendar application using the MERN stack intended to bring discord communities closer!</p>
     </td>
   </tr>
 </table>
