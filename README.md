@@ -146,7 +146,7 @@ Here are some ideas to get you started:
       <h3 align="center">Group Project</h3>
       <br />
         <a target="_blank" href="https://github.com/jalonghurst/Green-Energy-ECommerce">
-          <img src="profile.gif" width="100%" alt="Portfolio"/>
+          <img src="logincapture-ecomm.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -157,7 +157,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React.js, Tailwind.css, Node.js, Express.js, JavaScript, MongoDB </strong> - Together is a group calendar application using the MERN stack intended to bring discord communities closer!</p>
+        <p><strong> MVC Architecture Application: Tailwind.css, Node.js, Express.js, JavaScript, MongoDB, GoogleAuth. </strong> - An ecommerce platform promoting residential green energy products such as solar panels!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Together: Latest open source contribution</h3>
@@ -175,7 +175,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React.js, Tailwind.css, Node.js, Express.js, JavaScript, MongoDB, strong> -Together is a group calendar application using the MERN stack intended to bring discord communities closer!</p>
+        <p><strong>React.js, Tailwind.css, Node.js, Express.js, JavaScript, MongoDB, Passport.js</strong> -Together is a group calendar application using the MERN stack intended to bring discord communities closer!</p>
     </td>
   </tr>
 </table>
