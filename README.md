@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-⚡ I'm a Software Engineer and web developer currently working with the MERN stack.
+⚡ I'm a Software Engineer currently working with the MERN stack.
  
 ⚛ I’m currently working on 'VirtualStudio'. VirtualStudio is a virtual gallery space that allows artists and creatives to showcase their work in an online, accessible format.
 
@@ -143,7 +143,7 @@ Here are some ideas to get you started:
    
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Group Project: A Green Ecommerce Store</h3>
+      <h3 align="center">Group Project: A Green Energy Ecommerce Store</h3>
       <br />
         <a target="_blank" href="https://github.com/jalonghurst/Green-Energy-ECommerce">
           <img src="logincapture-ecomm.png" width="100%" alt="Portfolio"/>
