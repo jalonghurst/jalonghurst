@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 ⚡ I'm a Software Engineer currently working with the MERN stack.
  
 ⚛ I’m currently working on 'VirtualStudio'. VirtualStudio is a virtual gallery space that allows artists and creatives to showcase their work in an online, accessible format.
- |
+ 
+
 💬 Avaliable to work: Fullstack Developer | MERN stack | JavaScript | Node.js | Express.js | React | Redux
 
 📫 How to reach me: jacqui.longhurst@btinternet.com 
