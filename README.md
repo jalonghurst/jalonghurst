@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Jacqui, my journey into software development started in 2017 ✨
 
 <!--
 **jalonghurst/jalonghurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
