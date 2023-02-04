@@ -5,18 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 -->
 
-⚡ I'm a Software Engineer currently working with the MERN stack.
+⚡ I am a Fullstack Software Engineer
  
 ⚛ I’m currently working on 'VirtualStudio'. VirtualStudio is a virtual gallery space that allows artists and creatives to showcase their work in an online, accessible format.
  
+🌱 I love to learn! I am especially interested in crypto, AI driven design, as well as natural science subjects and environmental causes.
 
-💬 Avaliable to work: Fullstack Developer | MERN stack | JavaScript | Node.js | Express.js | React | Redux
+💬 Avaliable to work: Fullstack Developer | MERN stack | JavaScript | Node.js | Express.js | React | Redux 
 
 📫 How to reach me: jacqui.longhurst@btinternet.com 
 
