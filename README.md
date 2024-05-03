@@ -46,6 +46,28 @@
 <table bordercolor="#66b2b2">
   
   <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">Market data viewer</h3>
+        <br />
+        <a target="_blank" href="https://virtualstudio.cyclic.app/">
+            <img src="market-view.gif" width="100%" alt="Visual Studio App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jalonghurst/VirtualStudio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://virtualstudio.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Typescript, React, Tailwind, Node.js</strong> - Project in progress for viewing market statistics and viewing charts.</p>
+    </td>
+  </tr>
+  </table>
+<table bordercolor="#66b2b2">
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Virtual Studio</h3>
         <br />
@@ -86,7 +108,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">JacquiLonghurst.com</h3>
+      <h3 align="center">Jacqui Longhurst Portfolio Website</h3>
       <br />
         <a target="_blank" href="https://jacquilonghurst.netlify.app/">
           <img src="profile.gif" width="100%" alt="Portfolio"/>
