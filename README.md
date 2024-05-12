@@ -55,7 +55,7 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/jalonghurst/VirtualStudio" target="_blank">
+  <a href="https://github.com/jalonghurst/pokedex-app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://pokemon-pokedex-app.onrender.com/" target="_blank">
