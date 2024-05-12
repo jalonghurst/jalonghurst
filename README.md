@@ -50,7 +50,7 @@
       <h3 align="center">Pokemon Pokedex App</h3>
         <br />
         <a target="_blank" href="https://pokemon-pokedex-app.onrender.com/">
-            <img src="pokedex-screenshot.png" width="100%" alt="Pokemon Pokedex App"/>
+            <img src="pokedex.mp4" width="100%" alt="Pokemon Pokedex App"/>
         </a>
         <br />
         <p align="center">
@@ -58,7 +58,7 @@
   <a href="https://github.com/jalonghurst/VirtualStudio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://virtualstudio.onrender.com/" target="_blank">
+  <a href="https://pokemon-pokedex-app.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
