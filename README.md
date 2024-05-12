@@ -50,7 +50,7 @@
       <h3 align="center">Pokemon Pokedex App</h3>
         <br />
         <a target="_blank" href="https://pokemon-pokedex-app.onrender.com/">
-            <img src="market-view.gif" width="100%" alt="Pokemon Pokedex App"/>
+            <img src="pokedex-screenshot.png" width="100%" alt="Pokemon Pokedex App"/>
         </a>
         <br />
         <p align="center">
