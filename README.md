@@ -49,9 +49,9 @@
     <td width="100%" valign="top">
       <h3 align="center">Pokemon Pokedex App</h3>
         <br />
-        <a target="_blank" href="https://pokemon-pokedex-app.onrender.com/">
-            <img src="pokedex.mp4" width="100%" alt="Pokemon Pokedex App"/>
-        </a>
+        <a href="https://pokemon-pokedex-app.onrender.com/" target="_blank">
+    <img src="pokedex-screenshot.png"/>
+  </a>
         <br />
         <p align="center">
           
